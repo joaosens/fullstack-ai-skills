@@ -1,0 +1,18 @@
+{
+  "name": "@joaosens/fullstack-prompts",
+  "version": "1.0.0",
+  "description": "Production-grade Full Stack system instructions for Cursor and Continue. Transforms AI into a Senior Systems Architect specialized in FastAPI, React, Redis, and scalable microSaaS engineering.",
+  "files": [
+    ".prompts"
+  ],
+  "keywords": [
+    "continue",
+    "cursor",
+    "prompts",
+    "fastapi",
+    "react",
+    "architecture"
+  ],
+  "author": "joaosens",
+  "license": "MIT"
+}
