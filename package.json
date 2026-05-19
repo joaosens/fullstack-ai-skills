@@ -1,11 +1,11 @@
 {
   "name": "@joaosens/fullstack-bootstrap-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-grade Full Stack system instructions for Cursor and Continue. Transforms AI into a Senior Systems Architect specialized in FastAPI, React, Redis, and scalable microSaaS engineering.",
   "bin": {
     "fullstack-bootstrap-ai": "./bin/cli.js"
   },
-  "files":  [
+  "files": [
     "bin/",
     "rules/",
     "skills/",
