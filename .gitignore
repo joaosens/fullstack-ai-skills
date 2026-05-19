@@ -6,5 +6,5 @@ agent-owasp-compliance/
 
 # Other Settings
 skills-lock.json
-_clean/
+clean/
 .npmrc
