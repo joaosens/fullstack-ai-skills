@@ -1,18 +1,26 @@
 {
-  "name": "@joaosens/fullstack-prompts",
+  "name": "@joaosens/fullstack-bootstrap-ai",
   "version": "1.0.0",
   "description": "Production-grade Full Stack system instructions for Cursor and Continue. Transforms AI into a Senior Systems Architect specialized in FastAPI, React, Redis, and scalable microSaaS engineering.",
-  "files": [
-    ".prompts"
+  "bin": {
+    "fullstack-bootstrap-ai": "./bin/cli.js"
+  },
+  "files":  [
+    "bin/",
+    "rules/",
+    "skills/",
+    "mcp/",
+    "spec-driven/"
   ],
   "keywords": [
     "continue",
-    "cursor",
     "prompts",
     "fastapi",
     "react",
-    "architecture"
+    "architecture",
+    "ai-agent",
+    "skills"
   ],
-  "author": "joaosens",
+  "author": "João Eduardo Santos Sens",
   "license": "MIT"
 }
