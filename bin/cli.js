@@ -24,8 +24,8 @@ const promptsToAppend = `
 prompts:
   - uses: file://${packageDir}/rules/Backend.Rules.md
   - uses: file://${packageDir}/rules/Frontend.Rules.md
-  - uses: file://${packageDir}/skills/Main.Skills.md
-  - uses: file://${packageDir}/skills/Examples.Skills.md
+  - uses: file://${packageDir}/skills/Main.Skill.md
+  - uses: file://${packageDir}/skills/Examples.Skill.md
   - uses: file://${packageDir}/mcp/Guide.MCP.md
 `;
 
