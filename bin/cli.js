@@ -22,11 +22,11 @@ if (!fs.existsSync(configPath)) {
 
 const promptsToAppend = `
 prompts:
-  - uses: file://${packageDir}/rules/Backend.Rules.md
-  - uses: file://${packageDir}/rules/Frontend.Rules.md
-  - uses: file://${packageDir}/skills/Main.Skill.md
-  - uses: file://${packageDir}/skills/Examples.Skill.md
-  - uses: file://${packageDir}/mcp/Guide.MCP.md
+  - uses: file://${packageDir}/rules/backend-rules.md
+  - uses: file://${packageDir}/rules/frontend-rules.md
+  - uses: file://${packageDir}/skills/main-skill.md
+  - uses: file://${packageDir}/skills/examples-skill.md
+  - uses: file://${packageDir}/mcp/guide-mcp.md
 `;
 
 try {
