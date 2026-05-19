@@ -1,3 +1,10 @@
+---
+name: frontend-rules
+description: Strict frontend architecture guardrails for React, Tailwind, and R3F
+invokable: false
+systemPrompt: true
+---
+
 # FRONTEND ENGINEERING RULES
 
 ## Core Frontend Philosophy

@@ -1,3 +1,10 @@
+---
+name: mcp-guides
+description: Structural guidelines for tool execution and active documentation search
+invokable: false
+systemPrompt: true
+---
+
 # 🔌 MODEL CONTEXT PROTOCOL (MCP) OPERATIONAL DIRECTIVES
 
 ## 1. Core Philosophy

@@ -1,3 +1,9 @@
+---
+name: examples-skill
+description: Production-ready codebase examples and scalable reference patterns
+invokable: true
+---
+
 # Production Engineering Reference
 ## GitHub Analytics Platform — Senior Architecture Patterns
 

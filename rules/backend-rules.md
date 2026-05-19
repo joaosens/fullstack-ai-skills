@@ -1,3 +1,10 @@
+---
+name: backend-rules
+description: Strict backend architecture guardrails for FastAPI and PostgreSQL
+invokable: false
+systemPrompt: true
+---
+
 # BACKEND ENGINEERING RULES
 
 ## Core Backend Philosophy
